@@ -6,3 +6,5 @@ uni = ['u','c','s','c'
 print(pd.Series(lst))
 
 print(pd.Series(uni))
+
+print(df.dtypes(uni))
