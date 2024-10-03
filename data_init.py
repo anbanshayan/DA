@@ -5,3 +5,4 @@ url = "/home/anbashayan/Downloads/heart+disease/switzerland.data"
 df = pd.read_csv(url, header = None)
 
 print(df.head(5))
+print(df.head(5))
